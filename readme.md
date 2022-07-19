@@ -16,7 +16,7 @@
 A user-organised expense/income tracking system that lets you log-in using the registered credentials, view/manage/update/delete your expenses and income, categorising them with corresponding tags through `CRUD` operations using axios API.
 
 The application's backend is supported through a self-designed system hosted remotely on `MongoDB Atlas`, while the complete project is deployed online through `Heroku`.
-</br></br>
+</br>
 
 ## Features
  - Users can register and login using their EMail IDs and passwords set while signing up.
